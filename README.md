@@ -1,7 +1,7 @@
 # EXP-04 Deployment and configuration of a Private Cloud  in AWS
-DEVELOPED BY:VIMALA RANI A
+DEVELOPED BY: SAI SANJAY R
 
-REG NO:212223040240
+REG NO:212223040178
 # Aim:
 To set up of a Private Cloud  in AWS.
          Setting up of a private cloud in AWS:
